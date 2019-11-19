@@ -1,7 +1,7 @@
 # Adobe CC 2020 Collection
 
 ### README
-**To install:** Open the iso file and run tje *"autoplay.exe"*.
+Open the iso file and run the *"autoplay.exe"*.
 
 ### Links
 
